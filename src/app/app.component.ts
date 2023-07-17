@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl, Validators } from '@angular/forms';
 import { AppService } from './app.service';
 
+// https://medium.com/bb-tutorials-and-thoughts/how-to-get-started-with-angular-c3c209d6fe90
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
